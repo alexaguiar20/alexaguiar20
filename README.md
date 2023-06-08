@@ -1,6 +1,6 @@
 ## Alex Aguiar
 
-- 🔭 Estudando Front-end
+- 🔭 Estudando Front-End
 - 🌱 Aprendendo Javascript
 
 
